@@ -1,0 +1,14 @@
+.home-title{
+    font-size: 3.5rem;
+    margin-top: 5rem;
+    letter-spacing: 1rem;
+}
+.login-wrapper{
+    width: 600px;
+    margin: 50px auto;
+}
+.login-wrapper .login-btn{
+    cursor: pointer;
+    width: 300px;
+    margin: 20px auto;
+}
